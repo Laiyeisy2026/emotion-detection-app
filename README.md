@@ -1,10 +1,13 @@
-# Emotion Detection App
+# Final Project
+
+## Emotion Detection Application
+
 This project uses Watson NLP to detect emotions from text input.
 
 ## Features
 - Emotion detection from text
-- Uses IBM Watson NLP
-- Built with Python
+- Built with Python and Flask
+- Includes error handling and testing
 
 ## Author
 Laiyeisy Quinche Rincón
